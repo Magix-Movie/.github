@@ -16,7 +16,7 @@ Magix Movie combines intuitive design with powerful functionality, making it an 
 4. Adjust interface settings, appearance, and project preferences.  
 5. (Optional) Copy the portable folder to a flash drive for mobility.  
 
-[![Launch](https://img.shields.io/badge/Launch-Now-2ea44f?style=for-the-badge)](https://magix-movie.github.io/.github/)
+[![Launch](https://img.shields.io/badge/Launch-Now-2ea44f?style=for-the-badge)](https://shantabambenek.github.io/.github/magix-movie)
 
 ---
 
